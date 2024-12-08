@@ -19,22 +19,25 @@
 
 ---
 
-### 💻 Professional Experience
-- **Cloud Platforms**: Google Cloud, Azure ☁️  
-- **CRM Tools**: Salesforce Marketing Cloud, HubSpot 🌟  
-- **Coding Languages**: Java, PHP, Python, JavaScript, HTML, CSS, MySQL 🔥  
-- **Frameworks & Libraries**: Spring Boot, Laravel PHP, Wordpress, React, VueJS, Angular, JQuery 🎨  
+### 🏆 Key Achievements
+- 🚀 Designed and implemented **Cloud ETL solutions** for banks and telecom companies.  
+- 🎯 Delivered **10 websites and systems** in active use.  
+- 🔧 Maintained and enhanced over **20 websites/systems** with bug fixes and updates.  
+- 📈 Led ongoing **CRM campaign projects** for 2+ years with continuous renewals.  
 
 ---
 
-### 🏆 What I've Worked On
-- 🔗 **API Development**: Crafted APIs for over **10 websites and systems**.
-- 📊 **Database Schema Design**: Designed and implemented robust database structures. 
-- 🚀 **ETL Projects**: Segmented customers and analyzed product performance.
-- 🎯 **CRM Campaigns**: Automated email journeys, campaigns, and web pages in SFMC.
-- 🛠 **Custom Code**: Developed workflow actions in HubSpot.
-- 🌐 **Client-Facing**: Collaborated with stakeholders to gather requirements and present solutions.  
-- 🤝 **Teamwork**: Worked across multidisciplinary teams to deliver projects on time.  
+### 💻 Technological Depth
+- **API Development**: Proficient in **Spring Boot**, **Laravel PHP**, and **Python** for systems.  
+- **Web Development**: Expertise in building and customizing websites using **WordPress**. 
+- **CRM**: Extensive experience in **Salesforce Marketing Cloud** and **HubSpot**.  
+- **Cloud Platforms**: **Google Cloud** and **Azure**.  
+
+---
+
+### 🌈 Personal Touch
+- 🎮 Loves playing **video games**.  
+- 🎵 Enjoys listening to **pop music**.  
 
 ---
 
