@@ -11,9 +11,10 @@
 
 ---
 
-### 💻 About Me
+### 👩‍💻 About Me
 - 📍 Based in **Toronto, Canada** 🇨🇦  
-- 🛠 **4 years of professional experience** in software development and IT solutions.  
+- 🛠 **4 years of professional experience** in software development and IT solutions.
+- 👩‍🎓 Bachelor degree in **Computer Engineering**.
 - 💡 Skilled in **project management**, **client communication**, and **team collaboration**.  
 - 🌟 Passionate about creating efficient, user-centric solutions.  
 
@@ -35,6 +36,13 @@
 
 ---
 
+### ✏️ Cerifications
+- **Microsoft Certified: Azure Data Fundamentals**: Showcased foundational knowledge of core data concepts and implementation on Microsoft Azure.
+- **Google Cloud Certified – Associate Cloud Engineer**: Demonstrated expertise in deploying applications, monitoring operations, and managing enterprise solutions on Google Cloud.
+- **Salesforce Certified Marketing Cloud Administrator**: Verified proficiency in configuring and managing Marketing Cloud solutions, including email campaigns and customer journeys.
+
+---
+
 ### 🌈 Personal Touch
 - 🎮 Loves playing **video games**.  
 - 🎵 Enjoys listening to **pop music**.  
@@ -43,8 +51,8 @@
 
 ### 🌈 Let's Connect!
 <a href="https://www.linkedin.com/in/aimee-so-4b46761a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=flat&logo=flower&logoColor=white"></a>
-<a href="mailto:aimee18222724@yahoo.com.hk"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+<!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=flat&logo=flower&logoColor=white"></a> --!>
+<a href="mailto:yantungso.aimee@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
 
 ---
 
